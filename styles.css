@@ -1,0 +1,48 @@
+body {
+    background-image: url(Train2.jpg);
+    background-size: 2000px 2000px;
+    background-repeat: no-repeat;
+}
+
+header {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+article {
+    color: white;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        0% {opacity: 0;}
+        100% {opacity: 1;}
+    
+
+}
+
+footer {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.marg {
+    margin-top: 50 px;
+    margin-bottom: 500px;
+    margin-right: 150px;
+    margin-left: 200px;
+
+}
+
+.pad {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+
+#lastline {
+    font-weight: bold;
+    font-size: 120%;
+    font-family: cursive;
+
+}
